@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2020-07-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I1e64b858270a135969e551e32b0321b9">
+      <score-instrument id="Ie4b8815234c64a4293557061f9d979c3">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I1e64b858270a135969e551e32b0321b9">
+      <midi-instrument id="Ie4b8815234c64a4293557061f9d979c3">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I25abe765df2fb83312c62677960a87e2">
+      <score-instrument id="I997d51929c552d170eb9a01e80047759">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I25abe765df2fb83312c62677960a87e2">
+      <midi-instrument id="I997d51929c552d170eb9a01e80047759">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I1e71130ded3d20f6d6ae6e5b96949946">
+      <score-instrument id="Iaf363645fc7441f8e11231a942bf4c44">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I1e71130ded3d20f6d6ae6e5b96949946">
+      <midi-instrument id="Iaf363645fc7441f8e11231a942bf4c44">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="If43fd06fac11fe41dbe2fd9ae1cc08a4">
+      <score-instrument id="I924700ced29b6c27fb0709961204ca67">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="If43fd06fac11fe41dbe2fd9ae1cc08a4">
+      <midi-instrument id="I924700ced29b6c27fb0709961204ca67">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -87,21 +87,21 @@
     <score-part id="P5">
       <part-name>Continuo</part-name>
       <part-abbreviation>Cont.</part-abbreviation>
-      <score-instrument id="Iea0ba19789b005763f0deb929c7ffc88">
+      <score-instrument id="I21da4d9bb7760a6db9b240da34ce668d">
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
-      <midi-instrument id="Iea0ba19789b005763f0deb929c7ffc88">
+      <midi-instrument id="I21da4d9bb7760a6db9b240da34ce668d">
         <midi-channel>2</midi-channel>
         <midi-program>44</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P4591eeb882076f4074efe15a35ca44da">
+    <score-part id="P35bfd0910c985b2137a0cc99c72d02eb">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I0a4a4680811956219172d039d229fb49">
+      <score-instrument id="Ia3f8611ad500218b98614f5da1128fc9">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I0a4a4680811956219172d039d229fb49">
+      <midi-instrument id="Ia3f8611ad500218b98614f5da1128fc9">
         <midi-channel>4</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -2857,7 +2857,7 @@
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="P4591eeb882076f4074efe15a35ca44da">
+  <part id="P35bfd0910c985b2137a0cc99c72d02eb">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="150.94">
       <print>
@@ -5758,7 +5758,7 @@
         </lyric>
         <lyric name="5" number="5">
           <syllabic>single</syllabic>
-          <text>?!E-</text>
+          <text>E-</text>
         </lyric>
       </note>
       <note>
