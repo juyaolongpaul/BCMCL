@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2020-07-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>D Trumpet</part-name>
       <part-abbreviation>D Tpt.</part-abbreviation>
-      <score-instrument id="If9dd78e3cf1cff8ad599a621fb158a2b">
+      <score-instrument id="I453d2893a8db00cb6827445724c45f1a">
         <instrument-name>D Trumpet</instrument-name>
       </score-instrument>
-      <midi-instrument id="If9dd78e3cf1cff8ad599a621fb158a2b">
+      <midi-instrument id="I453d2893a8db00cb6827445724c45f1a">
         <midi-channel>4</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>D Trumpet</part-name>
       <part-abbreviation>D Tpt.</part-abbreviation>
-      <score-instrument id="Ide1ba7963f715748a3339339925fd2c7">
+      <score-instrument id="I02a8523e1ecc0f1ff5662c90491d89e9">
         <instrument-name>D Trumpet</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ide1ba7963f715748a3339339925fd2c7">
+      <midi-instrument id="I02a8523e1ecc0f1ff5662c90491d89e9">
         <midi-channel>6</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>D Trumpet</part-name>
       <part-abbreviation>D Tpt.</part-abbreviation>
-      <score-instrument id="I6f638128617d0e261c21b998f5359642">
+      <score-instrument id="I0607836ca24fc4edcaf381e92f1ddccc">
         <instrument-name>D Trumpet</instrument-name>
       </score-instrument>
-      <midi-instrument id="I6f638128617d0e261c21b998f5359642">
+      <midi-instrument id="I0607836ca24fc4edcaf381e92f1ddccc">
         <midi-channel>8</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Timpani</part-name>
       <part-abbreviation>Timp.</part-abbreviation>
-      <score-instrument id="I854dbf37580b7bc512a5f518d161ea4e">
+      <score-instrument id="I291b23684d108e843167b4d168b9e8e1">
         <instrument-name>Timpani</instrument-name>
       </score-instrument>
-      <midi-instrument id="I854dbf37580b7bc512a5f518d161ea4e">
+      <midi-instrument id="I291b23684d108e843167b4d168b9e8e1">
         <midi-channel>2</midi-channel>
         <midi-program>48</midi-program>
       </midi-instrument>
@@ -87,10 +87,10 @@
     <score-part id="P5">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Id5621b1cca99bf376203b212c01a4121">
+      <score-instrument id="Ia06d3540201c147738cfb6d85ec1932b">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Id5621b1cca99bf376203b212c01a4121">
+      <midi-instrument id="Ia06d3540201c147738cfb6d85ec1932b">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -98,10 +98,10 @@
     <score-part id="P6">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I59b2d118d599bcaf8b3929d6981ad232">
+      <score-instrument id="If8ea7cc3a76665eaf904500019941163">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I59b2d118d599bcaf8b3929d6981ad232">
+      <midi-instrument id="If8ea7cc3a76665eaf904500019941163">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -109,10 +109,10 @@
     <score-part id="P7">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I7ff5f68f195c061c6ef85221f69ebce9">
+      <score-instrument id="Ia23b880e5c34b6d85362005882daf672">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I7ff5f68f195c061c6ef85221f69ebce9">
+      <midi-instrument id="Ia23b880e5c34b6d85362005882daf672">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -120,10 +120,10 @@
     <score-part id="P8">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I0b90304fd8a2cbedd23d7f664888eb18">
+      <score-instrument id="I6e6910fb6e5e0703a3d66ed26ceca51a">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I0b90304fd8a2cbedd23d7f664888eb18">
+      <midi-instrument id="I6e6910fb6e5e0703a3d66ed26ceca51a">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -131,21 +131,21 @@
     <score-part id="P9">
       <part-name>Continuo</part-name>
       <part-abbreviation>Cont.</part-abbreviation>
-      <score-instrument id="I96b7dcee2d83cb9a06d83dc2f37ac1e7">
+      <score-instrument id="Iff7b019bb70df3a5b44ecbfb2a6c8668">
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
-      <midi-instrument id="I96b7dcee2d83cb9a06d83dc2f37ac1e7">
+      <midi-instrument id="Iff7b019bb70df3a5b44ecbfb2a6c8668">
         <midi-channel>9</midi-channel>
         <midi-program>44</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P9b0a22b79539f275a9b8f382fb01a556">
+    <score-part id="Pa6edb005399f2aa99e65f93e505b63b3">
       <part-name>D Trumpet</part-name>
       <part-abbreviation>D Tpt.</part-abbreviation>
-      <score-instrument id="Ie0dcee1ef1266807ee75d8187e065b13">
+      <score-instrument id="Iabe82cd61447c5873ee665bf01c3eb70">
         <instrument-name>D Trumpet</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ie0dcee1ef1266807ee75d8187e065b13">
+      <midi-instrument id="Iabe82cd61447c5873ee665bf01c3eb70">
         <midi-channel>10</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
@@ -9432,7 +9432,7 @@
     </measure>
   </part>
   <!--========================== Part 10 ===========================-->
-  <part id="P9b0a22b79539f275a9b8f382fb01a556">
+  <part id="Pa6edb005399f2aa99e65f93e505b63b3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="172.56">
       <print>

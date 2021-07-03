@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2021-03-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Violin</part-name>
       <part-abbreviation>Vln.</part-abbreviation>
-      <score-instrument id="Ifc1ad3d2a19f5ded6e467b8b96464588">
+      <score-instrument id="I97c8477fb96d783ad8a859ed261592ac">
         <instrument-name>Violin</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ifc1ad3d2a19f5ded6e467b8b96464588">
+      <midi-instrument id="I97c8477fb96d783ad8a859ed261592ac">
         <midi-channel>4</midi-channel>
         <midi-program>41</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I6ce6b758fb9a61defa5c5c275c219f01">
+      <score-instrument id="Ic99087eb7f833dcb0fbe21ec43b5c0ee">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I6ce6b758fb9a61defa5c5c275c219f01">
+      <midi-instrument id="Ic99087eb7f833dcb0fbe21ec43b5c0ee">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I93e9eb9581e7612fcc6d6a2219f01d9d">
+      <score-instrument id="If0c791edf0f8916a4696f4a53fea4fcc">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I93e9eb9581e7612fcc6d6a2219f01d9d">
+      <midi-instrument id="If0c791edf0f8916a4696f4a53fea4fcc">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Idb2c03b0eebb9c7448abbfcffac41b19">
+      <score-instrument id="If2bb0faabe118daa81d29df86c279a53">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Idb2c03b0eebb9c7448abbfcffac41b19">
+      <midi-instrument id="If2bb0faabe118daa81d29df86c279a53">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -87,10 +87,10 @@
     <score-part id="P5">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I0b29053acfe65eae9b577d6da58063a8">
+      <score-instrument id="If708359589e9b9203633651c8cd024b0">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I0b29053acfe65eae9b577d6da58063a8">
+      <midi-instrument id="If708359589e9b9203633651c8cd024b0">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -98,21 +98,21 @@
     <score-part id="P6">
       <part-name>Continuo</part-name>
       <part-abbreviation>Cont.</part-abbreviation>
-      <score-instrument id="Idbcacafea6204a1bf1c47d06135e4347">
+      <score-instrument id="I3b615c2b4c7377e08c0b252143726524">
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
-      <midi-instrument id="Idbcacafea6204a1bf1c47d06135e4347">
+      <midi-instrument id="I3b615c2b4c7377e08c0b252143726524">
         <midi-channel>2</midi-channel>
         <midi-program>44</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P354fe4dd3d69959d4ebeee48442074e3">
+    <score-part id="P7ad8a2ef7ffb1e87c1db96195826a5f7">
       <part-name>Violin</part-name>
       <part-abbreviation>Vln.</part-abbreviation>
-      <score-instrument id="Ib6f21391aed81941a64d4e00c4d2af16">
+      <score-instrument id="I710d75171500eb39808ac4da94255bf9">
         <instrument-name>Violin</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ib6f21391aed81941a64d4e00c4d2af16">
+      <midi-instrument id="I710d75171500eb39808ac4da94255bf9">
         <midi-channel>6</midi-channel>
         <midi-program>41</midi-program>
       </midi-instrument>
@@ -4902,7 +4902,7 @@
     </measure>
   </part>
   <!--=========================== Part 7 ===========================-->
-  <part id="P354fe4dd3d69959d4ebeee48442074e3">
+  <part id="P7ad8a2ef7ffb1e87c1db96195826a5f7">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="167.68">
       <print>

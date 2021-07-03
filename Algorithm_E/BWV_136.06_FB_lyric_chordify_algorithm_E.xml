@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2021-03-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Flute</part-name>
       <part-abbreviation>Fl.</part-abbreviation>
-      <score-instrument id="Ic1a3e70b42ec264a5526742eff82a8d6">
+      <score-instrument id="I65535c636cbed886e8a031e1a2d9d149">
         <instrument-name>Flute</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ic1a3e70b42ec264a5526742eff82a8d6">
+      <midi-instrument id="I65535c636cbed886e8a031e1a2d9d149">
         <midi-channel>2</midi-channel>
         <midi-program>74</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I1811dc7609cfebb063f7e2c98346d536">
+      <score-instrument id="I6f1837ecafa357cb99a90e64e2ffa3ab">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I1811dc7609cfebb063f7e2c98346d536">
+      <midi-instrument id="I6f1837ecafa357cb99a90e64e2ffa3ab">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Id8770afa5c927f31765fd4fe5a05b3fd">
+      <score-instrument id="Ic1fd76804587dbb4f659655d76496566">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Id8770afa5c927f31765fd4fe5a05b3fd">
+      <midi-instrument id="Ic1fd76804587dbb4f659655d76496566">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I188bd1c1e4f200ea7a9ca4fbd5fc85a3">
+      <score-instrument id="I550334ca7884305515ef2b1043a90ab2">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I188bd1c1e4f200ea7a9ca4fbd5fc85a3">
+      <midi-instrument id="I550334ca7884305515ef2b1043a90ab2">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -87,10 +87,10 @@
     <score-part id="P5">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ia6517af8153e0ced9ee01d93515050da">
+      <score-instrument id="I437d148d1c1a277d30b4c23e538d91dd">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ia6517af8153e0ced9ee01d93515050da">
+      <midi-instrument id="I437d148d1c1a277d30b4c23e538d91dd">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -98,21 +98,21 @@
     <score-part id="P6">
       <part-name>Continuo</part-name>
       <part-abbreviation>Cont.</part-abbreviation>
-      <score-instrument id="I6f3c60f4491267a363464980e44068ed">
+      <score-instrument id="I1851443508b4fd69ab5df7be09bc4a24">
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
-      <midi-instrument id="I6f3c60f4491267a363464980e44068ed">
+      <midi-instrument id="I1851443508b4fd69ab5df7be09bc4a24">
         <midi-channel>4</midi-channel>
         <midi-program>44</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P8e781ed6dabfcc0cc2a8c656236127a9">
+    <score-part id="P38bb28c2c48d2731f57f040ec3a6f353">
       <part-name>Flute</part-name>
       <part-abbreviation>Fl.</part-abbreviation>
-      <score-instrument id="Iae9f24ddde7d4d1389fb2cd203f86c8d">
+      <score-instrument id="I43aaefdd83caada398abbca4af0a2611">
         <instrument-name>Flute</instrument-name>
       </score-instrument>
-      <midi-instrument id="Iae9f24ddde7d4d1389fb2cd203f86c8d">
+      <midi-instrument id="I43aaefdd83caada398abbca4af0a2611">
         <midi-channel>6</midi-channel>
         <midi-program>74</midi-program>
       </midi-instrument>
@@ -4238,7 +4238,7 @@
     </measure>
   </part>
   <!--=========================== Part 7 ===========================-->
-  <part id="P8e781ed6dabfcc0cc2a8c656236127a9">
+  <part id="P38bb28c2c48d2731f57f040ec3a6f353">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="169.74">
       <print>

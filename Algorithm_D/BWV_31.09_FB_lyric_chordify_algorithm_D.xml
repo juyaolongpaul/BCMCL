@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2020-07-28</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.4</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Tromba</part-name>
       <part-abbreviation>Tromb.</part-abbreviation>
-      <score-instrument id="I429b75f4ebd5887d9f5332dea8b3ac4e">
+      <score-instrument id="Ibaba2977601f04266d872935f31f54a8">
         <instrument-name>Baroque Trumpet in C</instrument-name>
       </score-instrument>
-      <midi-instrument id="I429b75f4ebd5887d9f5332dea8b3ac4e">
+      <midi-instrument id="Ibaba2977601f04266d872935f31f54a8">
         <midi-channel>2</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I70edfd4bb4f2ea9a708bdaf60e7e0ac0">
+      <score-instrument id="I2ad972ea34601cc938653655c1460597">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I70edfd4bb4f2ea9a708bdaf60e7e0ac0">
+      <midi-instrument id="I2ad972ea34601cc938653655c1460597">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Id47058183cdfc0bfb626be02dc24201b">
+      <score-instrument id="Iaf4c5f23d29bf23518571b65e6487073">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Id47058183cdfc0bfb626be02dc24201b">
+      <midi-instrument id="Iaf4c5f23d29bf23518571b65e6487073">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ie0e6a3e2c5b5f8fcb44d4428c7344c6c">
+      <score-instrument id="I0419072de490147f15f15c163294c288">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ie0e6a3e2c5b5f8fcb44d4428c7344c6c">
+      <midi-instrument id="I0419072de490147f15f15c163294c288">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -87,21 +87,21 @@
     <score-part id="P5">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Iaf7b018cbb69fcd6eb613b14b1523802">
+      <score-instrument id="Ie4a23622e62145bbe55082c6787e5ee7">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Iaf7b018cbb69fcd6eb613b14b1523802">
+      <midi-instrument id="Ie4a23622e62145bbe55082c6787e5ee7">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P3bab6dc821f9dcf7faa811eab9b4801c">
+    <score-part id="P4e57a0798fef6c7a1d6abbf7a60991c5">
       <part-name>Tromba</part-name>
       <part-abbreviation>Tromb.</part-abbreviation>
-      <score-instrument id="I1bbb3891b86229ba1577bb19a68409e0">
+      <score-instrument id="I58e727387a3b4b61512ce469b53c14a8">
         <instrument-name>Baroque Trumpet in C</instrument-name>
       </score-instrument>
-      <midi-instrument id="I1bbb3891b86229ba1577bb19a68409e0">
+      <midi-instrument id="I58e727387a3b4b61512ce469b53c14a8">
         <midi-channel>4</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
@@ -3373,7 +3373,7 @@
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="P3bab6dc821f9dcf7faa811eab9b4801c">
+  <part id="P4e57a0798fef6c7a1d6abbf7a60991c5">
     <!--========================= Measure 1 ==========================-->
     <measure number="1" width="142.7">
       <print>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2020-07-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Horn in G</part-name>
       <part-abbreviation>G Hn.</part-abbreviation>
-      <score-instrument id="Icc74049320b81acad59b32746c9856ea">
+      <score-instrument id="I30a9c129cd4e1c63009968cfdd3a2910">
         <instrument-name>Horn in G</instrument-name>
       </score-instrument>
-      <midi-instrument id="Icc74049320b81acad59b32746c9856ea">
+      <midi-instrument id="I30a9c129cd4e1c63009968cfdd3a2910">
         <midi-channel>2</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Horn in G</part-name>
       <part-abbreviation>G Hn.</part-abbreviation>
-      <score-instrument id="Iefb204837eb912a8f398226831978ed2">
+      <score-instrument id="I46cc4b7ab16263b492882d77da38f848">
         <instrument-name>Horn in G</instrument-name>
       </score-instrument>
-      <midi-instrument id="Iefb204837eb912a8f398226831978ed2">
+      <midi-instrument id="I46cc4b7ab16263b492882d77da38f848">
         <midi-channel>4</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Iacce7f48fa1a9cd575bbda9c1d5c24a5">
+      <score-instrument id="Iec6c3c0b1d96497879885be2511faf61">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Iacce7f48fa1a9cd575bbda9c1d5c24a5">
+      <midi-instrument id="Iec6c3c0b1d96497879885be2511faf61">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I5853169dab8d1ee78d224aac638351cb">
+      <score-instrument id="Ic73fa1e70397684eb6435f4e0f9aeec6">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I5853169dab8d1ee78d224aac638351cb">
+      <midi-instrument id="Ic73fa1e70397684eb6435f4e0f9aeec6">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -87,10 +87,10 @@
     <score-part id="P5">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ibf861507bd617dabfe5f3ef2de23940c">
+      <score-instrument id="Iab98c65b4cccf827d0126ad881dc6fe0">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ibf861507bd617dabfe5f3ef2de23940c">
+      <midi-instrument id="Iab98c65b4cccf827d0126ad881dc6fe0">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -98,10 +98,10 @@
     <score-part id="P6">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ibfa7e07ac177f0d5aa497f4d598becf3">
+      <score-instrument id="If2dc5c6d734d0a33f415f24417cb236d">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ibfa7e07ac177f0d5aa497f4d598becf3">
+      <midi-instrument id="If2dc5c6d734d0a33f415f24417cb236d">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -109,21 +109,21 @@
     <score-part id="P7">
       <part-name>Continuo</part-name>
       <part-abbreviation>Cont.</part-abbreviation>
-      <score-instrument id="If8bc97433d7a4d989fb5be7c9ae8211b">
+      <score-instrument id="Ia54fbb740ef45ae712fac66e1281bb6d">
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
-      <midi-instrument id="If8bc97433d7a4d989fb5be7c9ae8211b">
+      <midi-instrument id="Ia54fbb740ef45ae712fac66e1281bb6d">
         <midi-channel>6</midi-channel>
         <midi-program>44</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pfa81202d356a5f8914e1374dd73a9eab">
+    <score-part id="P2b976c08ec8e42ff9f3f76e66803eab3">
       <part-name>Horn in G</part-name>
       <part-abbreviation>G Hn.</part-abbreviation>
-      <score-instrument id="If6f38f6f46fecf521e93d1063403178e">
+      <score-instrument id="Ic1dbba712448fee2b22f0ffa966cd6ea">
         <instrument-name>Horn in G</instrument-name>
       </score-instrument>
-      <midi-instrument id="If6f38f6f46fecf521e93d1063403178e">
+      <midi-instrument id="Ic1dbba712448fee2b22f0ffa966cd6ea">
         <midi-channel>8</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -4277,7 +4277,7 @@
     </measure>
   </part>
   <!--=========================== Part 8 ===========================-->
-  <part id="Pfa81202d356a5f8914e1374dd73a9eab">
+  <part id="P2b976c08ec8e42ff9f3f76e66803eab3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="161.05">
       <print>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2020-07-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ic1eca952e353a28e2bb79ceac163db6c">
+      <score-instrument id="I953417a9507bece9ad18b0a608e54138">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ic1eca952e353a28e2bb79ceac163db6c">
+      <midi-instrument id="I953417a9507bece9ad18b0a608e54138">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I2e39856911e15765426d80e4ad418f1a">
+      <score-instrument id="I2a6b730b69dbd92a987f521022b97d74">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I2e39856911e15765426d80e4ad418f1a">
+      <midi-instrument id="I2a6b730b69dbd92a987f521022b97d74">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I399d6dd984dd349ff5447961a3a4c3a5">
+      <score-instrument id="I3f3fd56c887aff05fb147cc6e42bd2e8">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I399d6dd984dd349ff5447961a3a4c3a5">
+      <midi-instrument id="I3f3fd56c887aff05fb147cc6e42bd2e8">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -76,21 +76,21 @@
     <score-part id="P4">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ice11bd82540f630affd389302ef9d015">
+      <score-instrument id="I4a18312a99eba3f54e52da1a5db22938">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ice11bd82540f630affd389302ef9d015">
+      <midi-instrument id="I4a18312a99eba3f54e52da1a5db22938">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P6eb4c3b825da0f3d4eeb411945824d6a">
+    <score-part id="Pe6d260d67d2b016a84ac68a11d724fda">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I7babde244a5b15383551b69b083e7ef8">
+      <score-instrument id="Ie88f75f9d39c1bc821e77a57082281c4">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I7babde244a5b15383551b69b083e7ef8">
+      <midi-instrument id="Ie88f75f9d39c1bc821e77a57082281c4">
         <midi-channel>2</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -2597,7 +2597,7 @@
     </measure>
   </part>
   <!--=========================== Part 5 ===========================-->
-  <part id="P6eb4c3b825da0f3d4eeb411945824d6a">
+  <part id="Pe6d260d67d2b016a84ac68a11d724fda">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="155.22">
       <print>

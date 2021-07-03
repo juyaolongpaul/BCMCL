@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Bach, Johann Sebastian</creator>
     <encoding>
-      <encoding-date>2020-07-27</encoding-date>
+      <encoding-date>2021-06-07</encoding-date>
       <software>music21 v.5.1.0</software>
       <software>MuseScore 3.3.3</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,10 +43,10 @@
     <score-part id="P1">
       <part-name>Horn in G</part-name>
       <part-abbreviation>G Hn.</part-abbreviation>
-      <score-instrument id="I108fd5dfc4877fefe89b6b45ba798e8f">
+      <score-instrument id="Ia0416bd09ab9920b96e2c00ba52fe9b3">
         <instrument-name>Horn in G</instrument-name>
       </score-instrument>
-      <midi-instrument id="I108fd5dfc4877fefe89b6b45ba798e8f">
+      <midi-instrument id="Ia0416bd09ab9920b96e2c00ba52fe9b3">
         <midi-channel>4</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -54,10 +54,10 @@
     <score-part id="P2">
       <part-name>Horn in G</part-name>
       <part-abbreviation>G Hn.</part-abbreviation>
-      <score-instrument id="Ia7c4c162361e665f26f2e9765fa42b62">
+      <score-instrument id="I1418705f6ff6ba3207f0f7c41324e403">
         <instrument-name>Horn in G</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ia7c4c162361e665f26f2e9765fa42b62">
+      <midi-instrument id="I1418705f6ff6ba3207f0f7c41324e403">
         <midi-channel>6</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -65,10 +65,10 @@
     <score-part id="P3">
       <part-name>Oboe d'amore</part-name>
       <part-abbreviation>Ob. d'a.</part-abbreviation>
-      <score-instrument id="Ie9365affd3ba15411f6d6da348f30740">
+      <score-instrument id="I3b8bc59d5ab24e47b07759944b8027c9">
         <instrument-name>Oboe d'amore</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ie9365affd3ba15411f6d6da348f30740">
+      <midi-instrument id="I3b8bc59d5ab24e47b07759944b8027c9">
         <midi-channel>8</midi-channel>
         <midi-program>69</midi-program>
       </midi-instrument>
@@ -76,10 +76,10 @@
     <score-part id="P4">
       <part-name>Oboe d'amore</part-name>
       <part-abbreviation>Ob. d'a.</part-abbreviation>
-      <score-instrument id="I26e62579668fc18eef535a9cecf83964">
+      <score-instrument id="I28c736362c8b07ce1757801a1d0193a5">
         <instrument-name>Oboe d'amore</instrument-name>
       </score-instrument>
-      <midi-instrument id="I26e62579668fc18eef535a9cecf83964">
+      <midi-instrument id="I28c736362c8b07ce1757801a1d0193a5">
         <midi-channel>2</midi-channel>
         <midi-program>69</midi-program>
       </midi-instrument>
@@ -87,10 +87,10 @@
     <score-part id="P5">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ib8e8ae9126251e97be696f7b655e3157">
+      <score-instrument id="I4cb7a221253ae819ad781c7b86652929">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Ib8e8ae9126251e97be696f7b655e3157">
+      <midi-instrument id="I4cb7a221253ae819ad781c7b86652929">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -98,10 +98,10 @@
     <score-part id="P6">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Icca8a2ee2ac81065570fece3aeb8d0af">
+      <score-instrument id="Ic74e8525044a7435cf45d6d7ebb4b1bb">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Icca8a2ee2ac81065570fece3aeb8d0af">
+      <midi-instrument id="Ic74e8525044a7435cf45d6d7ebb4b1bb">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -109,10 +109,10 @@
     <score-part id="P7">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Iccd1bdb660d59cb86b37a1fa1ea6d063">
+      <score-instrument id="If8ae5762573a266824110dbd19eaecba">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="Iccd1bdb660d59cb86b37a1fa1ea6d063">
+      <midi-instrument id="If8ae5762573a266824110dbd19eaecba">
         <midi-channel>5</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -120,10 +120,10 @@
     <score-part id="P8">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I922bc260499b253e076be757be750b2f">
+      <score-instrument id="If11a721c55e3a33161201fd2affb6e8b">
         <instrument-name>Voice</instrument-name>
       </score-instrument>
-      <midi-instrument id="I922bc260499b253e076be757be750b2f">
+      <midi-instrument id="If11a721c55e3a33161201fd2affb6e8b">
         <midi-channel>7</midi-channel>
         <midi-program>53</midi-program>
       </midi-instrument>
@@ -131,21 +131,21 @@
     <score-part id="P9">
       <part-name>Continuo</part-name>
       <part-abbreviation>Cont.</part-abbreviation>
-      <score-instrument id="I3fc0c80fd425daa2a70598edaa8bd1e4">
+      <score-instrument id="I2ac9810aba873add80145805874023a1">
         <instrument-name>Contrabass</instrument-name>
       </score-instrument>
-      <midi-instrument id="I3fc0c80fd425daa2a70598edaa8bd1e4">
+      <midi-instrument id="I2ac9810aba873add80145805874023a1">
         <midi-channel>9</midi-channel>
         <midi-program>44</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P164b4772bf99f6e046d829a39cf0a617">
+    <score-part id="P2d18c09942ede96d33b66e5467076638">
       <part-name>Horn in G</part-name>
       <part-abbreviation>G Hn.</part-abbreviation>
-      <score-instrument id="I356fb94ccba1e3ae6307d7b320fa8310">
+      <score-instrument id="Id64c0845ddc6c2cbd1c41161903eff1e">
         <instrument-name>Horn in G</instrument-name>
       </score-instrument>
-      <midi-instrument id="I356fb94ccba1e3ae6307d7b320fa8310">
+      <midi-instrument id="Id64c0845ddc6c2cbd1c41161903eff1e">
         <midi-channel>10</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -5702,7 +5702,7 @@
     </measure>
   </part>
   <!--========================== Part 10 ===========================-->
-  <part id="P164b4772bf99f6e046d829a39cf0a617">
+  <part id="P2d18c09942ede96d33b66e5467076638">
     <!--========================= Measure 0 ==========================-->
     <measure number="0" width="157.8">
       <print>
